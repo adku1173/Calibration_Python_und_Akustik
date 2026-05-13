@@ -1,0 +1,5 @@
+*.log
+*.pyc
+*.txt
+*.deb
+calibration_python_und_akustik.egg-info/PKG-INFO
